@@ -1,0 +1,48 @@
+.description{
+  display: block;
+  background-color: #D7C297;
+  padding : 100px 100px 100px 100px;
+  text-align:justify;
+}
+.onglet{
+	margin:2px 2px 0 2px;
+  margin:1px 2px 0 2px;
+  foat: left;
+  display: inline;
+}
+.bloc{
+  display: block;
+  width: 31%;
+  float: left;
+  padding: 10px 10px 10px 10px;
+}
+.bgbloc{
+  background: #D7C297;
+}
+.blocs{
+text-align: center;
+}
+.img_bloc{
+  height: 100px;
+  width: 100px;
+}
+.description1{
+  padding : 50px 50px 50px 50px;
+  text-align:justify;
+  display: block;
+}
+.description2{
+  padding : 50px 50px 50px 50px;
+  text-align:justify;
+  display: block;
+}
+.description3{
+  padding : 50px 50px 50px 50px;
+  text-align:justify;
+  display: block;
+}
+@media(max-width: 480px){
+    header{
+        display: none;
+    }
+}
